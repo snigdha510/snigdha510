@@ -1,6 +1,6 @@
 # <p align ="center"> HELLO 👋 I'm Snigdha Parashar </p>
 
-A 2nd year student pursuing a bachelor’s degree in Computer Science & Engineering (with AI & ML specialization) at UPES Dehradun. 
+A pre - final year student pursuing a bachelor’s degree in Computer Science & Engineering (with AI & ML specialization) at UPES Dehradun. 
 
 
 - 🌱 I’m currently learning JS and NODEJS
