@@ -19,10 +19,9 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
   ![node](https://github.com/snigdha510/snigdha510/assets/100710845/e6c56ffe-21d6-4292-ab65-d4278499e6b2)
 
 - **Tools**:
-  ![Git](https://github.com/snigdha510/snigdha510/assets/100710845/6433f4e5-0229-4f7b-b3bf-9e93a4246820)
-  ![SQL](https://github.com/snigdha510/snigdha510/assets/100710845/29a275e7-be3b-4e40-901d-734454320d68)
-  ![MONGODB](https://github.com/snigdha510/snigdha510/assets/100710845/959bf90d-10b7-4d06-9be9-991539ccbab7)
-
+<img src="https://github.com/snigdha510/snigdha510/assets/100710845/6433f4e5-0229-4f7b-b3bf-9e93a4246820" alt="Git" width="30" height="30">
+  <img src="https://github.com/snigdha510/snigdha510/assets/100710845/29a275e7-be3b-4e40-901d-734454320d68" alt="SQL" width="30" height="30">
+  <img src="https://github.com/snigdha510/snigdha510/assets/100710845/959bf90d-10b7-4d06-9be9-991539ccbab7" alt="MongoDB" width="30" height="30">
 
 
 - **Courses*!
