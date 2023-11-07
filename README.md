@@ -22,19 +22,9 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/959bf90d-10b7-4d06-9be9-991539ccbab7" alt="MongoDB" width="30" height="30">
 
 
-- **Courses*!
-*: Operating Systems, Data Structures, Machine Learning.
-- **Internship Experience**: Contributed to the BUK Technology team at Barclays using JAVA, Spring Framework, and more.
-
-## Projects
-I've embarked on various projects to showcase my commitment to innovative solutions. Some of my notable projects include:
-- Sentiment Analysis
-- AI-powered Image Creation
-- [Add Project Title Here](https://github.com/yourusername/yourrepository)
-- [Add Project Title Here](https://github.com/yourusername/yourrepository)
-
 ## Achievements
 My journey is marked by achievements, including:
+- Summer Intern - 2023 at Barclays
 - Finalist in the "Present Around the Network" competition.
 - Winner of the OPEN Summer of Code challenge.
 - Leadership roles such as Vice President of the OPEN Community, UPES.
@@ -42,7 +32,7 @@ My journey is marked by achievements, including:
 - Merit-based scholarship recipient from the University.
 
 ## Connect With Me
-Let's collaborate and innovate together! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) and [Twitter](https://twitter.com/yourtwitterhandle).
+Let's collaborate and innovate together! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/snigdha-parashar) and [Twitter](https://twitter.com/bekhayaalii).
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you and exploring the world of technology together!
 
