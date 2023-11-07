@@ -32,7 +32,7 @@ My journey is marked by achievements, including:
 - Merit-based scholarship recipient from the University.
 
 ## Connect With Me
-Let's collaborate and innovate together! Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/snigdha-parashar) and [Twitter](https://twitter.com/bekhayaalii).
+Let's collaborate and innovate together! Feel free to reach out to me on [EMAIL](sparashar5102001@gmail.com), [LinkedIn](https://www.linkedin.com/in/snigdha-parashar) and [Twitter](https://twitter.com/bekhayaalii).
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you and exploring the world of technology together!
 
