@@ -16,6 +16,7 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/ba9a4e8b-ca39-4c8f-a32e-58498c7b0a7c" alt="CSS" width="30" height="30">
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/ab14e891-1921-40bf-bf90-73bc8f701439" alt="React" width="30" height="30">
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/e6c56ffe-21d6-4292-ab65-d4278499e6b2" alt="Node" width="30" height="30">
+  
 - **Tools**:
 <img src="https://github.com/snigdha510/snigdha510/assets/100710845/6433f4e5-0229-4f7b-b3bf-9e93a4246820" alt="Git" width="30" height="30">
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/29a275e7-be3b-4e40-901d-734454320d68" alt="SQL" width="30" height="30">
