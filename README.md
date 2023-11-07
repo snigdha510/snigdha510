@@ -8,14 +8,25 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
 - 🚀 Dedicated to driving innovation and success in the tech industry.
 
 ## Technical Skills
+
 - **Programming Languages**:
-  ![JAVA](https://images.app.goo.gl/KPBznEyn8mmHPz8U7)
-  ![Python](https://images.app.goo.gl/58XsjuR5cWHMDK898)
-  ![JavaScript](https://images.app.goo.gl/yiW1BgTA1YDYGgkJ7)
-  ![HTML](https://images.app.goo.gl/H6rwgDMfPoJ5iCPVA)
-  ![CSS](https://images.app.goo.gl/JpjPJhuxwzmeJmr9A)
-- **Tools**: Git, MySQL, MongoDB.
-- **Courses**: Operating Systems, Data Structures, Machine Learning.
+  ![JAVA](https://github.com/snigdha510/snigdha510/assets/100710845/3ccbb517-758f-4809-aa63-ffe19bc556b3)
+  [javascript](https://github.com/snigdha510/snigdha510/assets/100710845/f5c3fbd3-f2cc-402f-8d1f-ea8b9383745f)
+  ![python](https://github.com/snigdha510/snigdha510/assets/100710845/9ab5e340-a556-4dc4-a314-b2465f105447)
+  ![html](https://github.com/snigdha510/snigdha510/assets/100710845/2d8808ed-71c6-45c4-8c25-8d91d98b0624)
+  ![css](https://github.com/snigdha510/snigdha510/assets/100710845/ba9a4e8b-ca39-4c8f-a32e-58498c7b0a7c)
+  ![react](https://github.com/snigdha510/snigdha510/assets/100710845/ab14e891-1921-40bf-bf90-73bc8f701439)
+  ![node](https://github.com/snigdha510/snigdha510/assets/100710845/e6c56ffe-21d6-4292-ab65-d4278499e6b2)
+
+- **Tools**:
+  ![Git](https://github.com/snigdha510/snigdha510/assets/100710845/6433f4e5-0229-4f7b-b3bf-9e93a4246820)
+  ![SQL](https://github.com/snigdha510/snigdha510/assets/100710845/29a275e7-be3b-4e40-901d-734454320d68)
+  ![MONGODB](https://github.com/snigdha510/snigdha510/assets/100710845/959bf90d-10b7-4d06-9be9-991539ccbab7)
+
+
+
+- **Courses*!
+*: Operating Systems, Data Structures, Machine Learning.
 - **Internship Experience**: Contributed to the BUK Technology team at Barclays using JAVA, Spring Framework, and more.
 
 ## Projects
