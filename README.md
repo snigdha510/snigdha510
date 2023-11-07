@@ -34,8 +34,7 @@ My journey is marked by achievements, including:
 - Merit-based scholarship recipient from the University.
 
 ## Connect With Me
-Let's collaborate and innovate together! Feel free to reach out to me on my email : sparashar5102001@gmail.com and [LinkedIn](https://www.linkedin.com/in/snigdha-parashar](https://www.linkedin.com/in/snigdha-parashar-022aaa23b/).
-
+Let's collaborate and innovate together! Feel free to reach out to me on my email : sparashar5102001@gmail.com and [LinkedIn](https://www.linkedin.com/in/snigdha-parashar)
 
 
 
