@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
 
 - **Programming Languages**:
  <img src="https://github.com/snigdha510/snigdha510/assets/100710845/3ccbb517-758f-4809-aa63-ffe19bc556b3" alt="JAVA" width="30" height="30">
-  [JavaScript](https://github.com/snigdha510/snigdha510/assets/100710845/f5c3fbd3-f2cc-402f-8d1f-ea8b9383745f)
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/9ab5e340-a556-4dc4-a314-b2465f105447" alt="Python" width="30" height="30">
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/2d8808ed-71c6-45c4-8c25-8d91d98b0624" alt="HTML" width="30" height="30">
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/ba9a4e8b-ca39-4c8f-a32e-58498c7b0a7c" alt="CSS" width="30" height="30">
