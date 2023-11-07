@@ -34,5 +34,8 @@ My journey is marked by achievements, including:
 ## Connect With Me
 Let's collaborate and innovate together! Feel free to reach out to me on [EMAIL](sparashar5102001@gmail.com), [LinkedIn](https://www.linkedin.com/in/snigdha-parashar) and [Twitter](https://twitter.com/bekhayaalii).
 
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=snigdha510)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Thank you for visiting my GitHub profile, and I look forward to connecting with you and exploring the world of technology together!
 
