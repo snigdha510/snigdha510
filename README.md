@@ -1,7 +1,3 @@
-# Snigdha Parashar - GitHub Profile
-
-![Snigdha Parashar](https://github.com/snigdha510/snigdha510/raw/main/profile-image.png)
-
 ## Introduction
 Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major with a passion for Artificial Intelligence and Machine Learning. Currently, I'm pursuing my degree at the University of Petroleum and Energy Studies, and I'm excited to use my coding skills and AI expertise to make a meaningful impact in the tech world.
 
@@ -12,7 +8,12 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
 - 🚀 Dedicated to driving innovation and success in the tech industry.
 
 ## Technical Skills
-- **Programming Languages**: JAVA, Python, JavaScript.
+- **Programming Languages**:
+  ![JAVA](https://images.app.goo.gl/KPBznEyn8mmHPz8U7)
+  ![Python](https://images.app.goo.gl/58XsjuR5cWHMDK898)
+  ![JavaScript](https://images.app.goo.gl/yiW1BgTA1YDYGgkJ7)
+  ![HTML](https://images.app.goo.gl/H6rwgDMfPoJ5iCPVA)
+  ![CSS](https://images.app.goo.gl/JpjPJhuxwzmeJmr9A)
 - **Tools**: Git, MySQL, MongoDB.
 - **Courses**: Operating Systems, Data Structures, Machine Learning.
 - **Internship Experience**: Contributed to the BUK Technology team at Barclays using JAVA, Spring Framework, and more.
