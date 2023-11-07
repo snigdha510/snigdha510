@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
 - 📚 Strong academic background in technical and soft skills.
 - 🚀 Dedicated to driving innovation and success in the tech industry.
 
+
 ## Technical Skills
 
 <li>Programming Languages:
@@ -20,8 +21,9 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
 <img src="https://github.com/snigdha510/snigdha510/assets/100710845/6433f4e5-0229-4f7b-b3bf-9e93a4246820" alt="Git" width="30" height="30">
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/29a275e7-be3b-4e40-901d-734454320d68" alt="SQL" width="30" height="30">
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/959bf90d-10b7-4d06-9be9-991539ccbab7" alt="MongoDB" width="30" height="30">
-
-
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+ 
 ## Achievements
 My journey is marked by achievements, including:
 - Summer Intern - 2023 at Barclays
