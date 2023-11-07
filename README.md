@@ -36,6 +36,3 @@ Let's collaborate and innovate together! Feel free to reach out to me on [EMAIL]
 
 Thank you for visiting my GitHub profile, and I look forward to connecting with you and exploring the world of technology together!
 
----
-
-*Disclaimer: The above information is subject to change, and the GitHub profile may have updates or additional projects not mentioned in this README.*
