@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
  
 ## Achievements
 My journey is marked by achievements, including:
-- Summer Intern - 2023 at Barclays
 - Finalist in the "Present Around the Network" competition.
 - Winner of the OPEN Summer of Code challenge.
 - Leadership roles such as Vice President of the OPEN Community, UPES.
