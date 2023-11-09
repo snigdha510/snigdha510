@@ -24,13 +24,6 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
  
-## Achievements
-My journey is marked by achievements, including:
-- Finalist in the "Present Around the Network" competition.
-- Winner of the OPEN Summer of Code challenge.
-- Leadership roles such as Vice President of the OPEN Community, UPES.
-- Active contributions to open-source projects.
-- Merit-based scholarship recipient from the University.
 
 ## Connect With Me
 Let's collaborate and innovate together! Feel free to reach out to me on my email : sparashar5102001@gmail.com and [LinkedIn](https://www.linkedin.com/in/snigdha-parashar)
