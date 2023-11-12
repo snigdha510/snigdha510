@@ -31,5 +31,5 @@ Let's collaborate and innovate together! Feel free to reach out to me on my emai
 
 
 
-Thank you for visiting my GitHub profile, and I look forward to connecting with you and exploring the world of technology together!
+Thank you for visiting my GitHub profile, and I look forward to connecting with you and explore together.
 
