@@ -29,7 +29,3 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
 ## Connect With Me
 Feel free to reach out to me on my email : sparashar5102001@gmail.com and [LinkedIn](https://www.linkedin.com/in/snigdha-parashar)
 
-
-
-Thank you for visiting my GitHub profile, and I look forward to connecting with you and explore together.
-
