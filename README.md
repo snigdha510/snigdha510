@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
 [![GitHub Streak](https://streak-stats.demolab.com/?user=snigdha510&theme=dark)](https://git.io/streak-stats)
  
 
-## Connect With Me
+## Connect with me
 Feel free to reach out to me on my email : sparashar5102001@gmail.com and [LinkedIn](https://www.linkedin.com/in/snigdha-parashar)
 
