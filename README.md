@@ -23,8 +23,7 @@ Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major wit
   <img src="https://github.com/snigdha510/snigdha510/assets/100710845/959bf90d-10b7-4d06-9be9-991539ccbab7" alt="MongoDB" width="30" height="30">
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true) <br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=snigdha510&theme=dark)](https://git.io/streak-stats) <br>
-[![snigdha510's GitHub | Stats](https://stats.quine.sh/snigdha510/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=snigdha510)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=snigdha510&theme=dark)](https://git.io/streak-stats) 
  
 
 ## Connect with me
