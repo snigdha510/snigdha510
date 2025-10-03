@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major with a passion for Artificial Intelligence and Machine Learning. Currently, I'm pursuing my degree at the University of Petroleum and Energy Studies, and I'm excited to use my coding skills and AI expertise to make a meaningful impact in the tech world.
 
 ## About Me
-- 🎓 Computer Science Major at the University of Petroleum and Energy Studies.
+- 🎓 Computer Science graduate - 2024.
 - 💻 Enthusiastic about leveraging coding skills and software development expertise.
 - 📚 Strong academic background in technical and soft skills.
 - 🚀 Dedicated to driving innovation and success in the tech industry.
