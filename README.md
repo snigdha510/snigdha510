@@ -1,11 +1,29 @@
 ## Introduction
-Welcome to my GitHub profile! I'm Snigdha Parashar, a Computer Science major with a passion for Artificial Intelligence and Machine Learning. Currently, I'm pursuing my degree at the University of Petroleum and Energy Studies, and I'm excited to use my coding skills and AI expertise to make a meaningful impact in the tech world.
 
-## About Me
-- 🎓 Computer Science graduate - 2024.
-- 💻 Enthusiastic about leveraging coding skills and software development expertise.
-- 📚 Strong academic background in technical and soft skills.
-- 🚀 Dedicated to driving innovation and success in the tech industry.
+
+## 👋 About Me
+
+I’m a **Software Engineer** with a strong focus on **AI, Automation, and Cloud-native systems**, currently working at **Oracle**. I enjoy building scalable tools, automation frameworks, and AI-powered applications that reduce manual effort and improve system efficiency.
+
+### 🧠 Areas of Experience
+
+- **AI & Generative AI** — LLMs, LangChain, NLP  
+- **Automation & Testing** — Playwright, backend validation  
+- **Backend & Full-Stack Development** — Python, Java, Spring Boot, Flask, Next.js  
+- **Cloud Platforms** — OCI, AWS, Azure  
+- **Databases** — SQL optimization  
+
+### 🚀 What I Work On
+
+I actively build projects that combine **AI with real-world enterprise use cases**, including:
+- Automation of UI migrations  
+- Intelligent content generation  
+- Backend and performance optimization  
+
+I value **clean architecture, performance, and maintainability**, and strongly believe in **learning by building**.
+
+🤝 Open to collaboration, open-source contributions, and discussions around **AI, cloud, and scalable system design**.
+
 
 
 ## Technical Skills
